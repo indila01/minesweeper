@@ -4,7 +4,7 @@ A command-line implementation of the classic Minesweeper game in C#.
 
 ## Requirements
 
-- .NET 6.0 or higher
+- .NET 8.0 or higher
 - Windows, Linux, or macOS
 
 ## How to Play
